@@ -1,0 +1,5 @@
+{
+  "name": "pigma-proxy",
+  "entrypoint": "proxy.js",
+  "scripts": {}
+}
